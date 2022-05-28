@@ -3,7 +3,7 @@ library(robotstxt)
 library(rvest)
 
 #SCRAPPING WEBSITE
-link<-'https://www.amazon.in/s?bbn=976419031&rh=n%3A976419031%2Cp_89%3AOnePlus&dc&qid=1653641120&rnid=3837712031&ref=lp_976420031_nr_p_89_0'
+link<-'https://www.amazon.in/s?bbn=1389401031&rh=n%3A1389401031%2Cp_89%3AApple&dc&qid=1653715157&rnid=3837712031&ref=lp_1389401031_nr_p_89_5'
 
 #read url
 page<-read_html(link)
